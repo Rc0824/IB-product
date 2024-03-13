@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IB_product.props" />
+</Project>
